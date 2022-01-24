@@ -1,7 +1,7 @@
-# Fazendo um fork
+### Fazendo um fork
 
-# Mantendo seu projeto atualizado com o projeto principal
+### Mantendo seu projeto atualizado com o projeto principal
 
-# Criando uma branch para enviar as suas alterações
+### Criando uma branch para enviar as suas alterações
 
-# Criando sua primeira pull request
+### Criando sua primeira pull request
