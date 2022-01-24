@@ -13,7 +13,7 @@
 
 # Conceitos iniciais: Merge
 
-# Conceitos iniciais:Clone
+# Conceitos iniciais: Clone
 - Copia o repositório remoto para seu computador
 - git clone
 
